@@ -5,9 +5,11 @@ Change 1: -> mofified at d tym of Change 2 Enhhanced
 Change 2: -> Bug1 fix new branch created
 
 
-Change 3: commit made by cologue for WI:Fix
+Change 3: ->  commit made by cologue for WI:Fix
 
 Change 4 : -> Bug2 fix
 
-Chang:updatrd on remote
+Chang: 5 ->  updatrd on remote
+
+change 6 -> change on remot by temamte
 
