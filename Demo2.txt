@@ -7,3 +7,5 @@ Change - bty teammate
 
 Change :log out feature
  chnag:git
+ 
+ change : To check pull rreq
